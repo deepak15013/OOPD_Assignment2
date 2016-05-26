@@ -1,0 +1,12 @@
+/home
+/oopd
+/home/sample
+/home/sample/filename.txt
+/home/filename1.csv
+/oopd/assignment4
+/oopd/assignment4/lab4
+/oopd/assignment4/lab5
+/oopd/assignment5
+/oopd/assignment4/lab4/sample.txt
+/oopd/assignment4/lab5/sample2.txt
+/oopd/assignment5/file1.txt
