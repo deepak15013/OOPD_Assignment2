@@ -32,7 +32,7 @@ public class MyDir {
     }
 
     public void deleteDir() {
-
+        //for future implementation
     }
 
     public String getLocation() {

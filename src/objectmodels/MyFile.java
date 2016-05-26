@@ -27,7 +27,7 @@ public class MyFile {
 
     public void createFile() {
         File newFile = new File(location);
-        FileWriter fileWriter = null;
+        FileWriter fileWriter;
         if(!newFile.exists()) {
             try {
                 if(newFile.createNewFile()) {
@@ -62,11 +62,11 @@ public class MyFile {
     }
 
     public void deleteFile() {
-
+        //for future implementation
     }
 
     public void modifyFile() {
-
+        //for future implementation
     }
 
     public String getLocation() {
